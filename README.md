@@ -9,8 +9,8 @@ v4.3 - Added PowerShell version as optional alternative to bat version.
 v4.4 - Changed primary mirror for legacy apk.  
 v4.5 - Fixed issue pushing cipher key to emulated storage.  
 v4.6 - Updated primary mirror for legacy apk (again).  
-v4.7 - Added new sanity checks and support for Android API 24 (7.0 Nougat).
-v4.8 - Update abe.jar
+v4.7 - Added new sanity checks and support for Android API 24 (7.0 Nougat).  
+v4.8 - Update abe.jar  
 
 
 ###### PREREQUISITES:
